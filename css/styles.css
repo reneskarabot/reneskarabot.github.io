@@ -11687,6 +11687,7 @@ ul.social-network li {
 	border-color: #dc3545;
   border-style: solid;
   border-width: thin;
+  border-radius: 0.25rem;
 }
 
 .social-network a.icoFacebook:hover, .social-network a.icoInsta:hover, .social-network a.icoYoutube:hover {
